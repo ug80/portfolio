@@ -17,11 +17,15 @@ const About = () => {
               <p>Hi. I'm Ulises Giordano. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>There are plenty of reasons why coding is so fascinating to me. 
+                Firstly,  the  problem-solving  aspect  is incredibly rewarding. 
+                I love tackling challenges and  finding  creative solutions, and 
+                coding allows me to do that  every day. Secondly, the feeling of 
+                creating something from  scratch and seeing it come  to  life is
+                truly satisfying. Plus, the constant  learning  and evolution in 
+                the tech field  keep things exciting  and  ensure there's always 
+                something new to explore. Overall, the blend of logic, creativity, 
+                and continuous  growth is what I find most appealing about coding.</p>  
             </div>
           </div>
       </div>
