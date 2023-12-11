@@ -122,7 +122,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='giordau@gmail.com'
+              href='mailto:giordau@gmail.com'
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -132,7 +132,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://drive.google.com/file/d/1EcWSqFhwI8EMhC-1GLVrpcR4Ekzs0nlj/view?usp=drive_link'
+              href='https://drive.google.com/file/d/1qn0JRuVgtJjTAz9DYnPliIvXZ6oOQM7m/view?usp=drive_link'
               target='_blank'
               rel='noopener noreferrer'
             >
